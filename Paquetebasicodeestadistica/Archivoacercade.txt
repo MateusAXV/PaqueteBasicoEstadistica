@@ -1,0 +1,14 @@
+¡¡Hola!!
+
+Gracias por utilizar nuestro software. 
+
+Este software estadistico ayuda a calcular la media, mediana y 
+moda, Ademas  de aprender  a calcular estos valores de forma
+manual.
+
+Integrantes:
+
+-Ana Ximena Vanegas Mateus
+-Nicole Alejandra Timaran Beltran
+-Santiago Ramirez Muñoz
+-Maryury Tatiana Leon Valbuena
