@@ -15,7 +15,7 @@ import java.sql.DriverManager;
 public class Conexion {
 
     Connection con = null;
-    private static String baseDeDatos = "usuarios";//NOMBRE BASE DE DATOS
+    private static String baseDeDatos = "usuarios_pbe";//NOMBRE BASE DE DATOS
 
     //DATOS PARA LA CONECCION
     private static String USER = "user";
