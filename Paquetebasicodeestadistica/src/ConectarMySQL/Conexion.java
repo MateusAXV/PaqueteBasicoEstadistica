@@ -20,8 +20,8 @@ public class Conexion {
     //DATOS PARA LA CONECCION
     private static String USER = "user";
     private static String PASS = "pass";
-    private static final String URL = "jdbc:mysql://localhost:3306/" + baseDeDatos
-            + "?useTimezone=true&serverTimezone=UTC";
+    private static final String URL = "jdbc:mysql://localhost:3306/"
+            + baseDeDatos + "?useTimezone=true&serverTimezone=UTC";
 
     public Connection Conexion() {
         try {
